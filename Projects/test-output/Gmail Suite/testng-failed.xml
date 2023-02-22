@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Gmail Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="orangehrm(failed)">
+    <parameter name="mybrowser" value="chrome"/>
+    <classes>
+      <class name="satish12345.paralleltest">
+        <methods>
+          <include name="orangehrm"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- satish12345.paralleltest -->
+    </classes>
+  </test> <!-- orangehrm(failed) -->
+</suite> <!-- Failed suite [Gmail Suite] -->

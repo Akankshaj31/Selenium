@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T13:26:46 IST" name="Default suite" finished-at="2023-02-15T13:27:26 IST" duration-ms="39726">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T13:26:46 IST" name="Default test" finished-at="2023-02-15T13:27:26 IST" duration-ms="39726">
+      <class name="datapakg.data1">
+        <test-method is-config="true" signature="BT()[pri:0, instance:datapakg.data1@35ef1869]" started-at="2023-02-15T13:26:46 IST" name="BT" finished-at="2023-02-15T13:26:56 IST" duration-ms="10407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="datadriven()[pri:0, instance:datapakg.data1@35ef1869]" started-at="2023-02-15T13:26:57 IST" name="datadriven" finished-at="2023-02-15T13:27:26 IST" duration-ms="29219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriven -->
+      </class> <!-- datapakg.data1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

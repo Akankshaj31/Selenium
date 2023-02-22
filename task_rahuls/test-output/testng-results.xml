@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T10:47:55 IST" name="Default suite" finished-at="2023-01-05T10:48:52 IST" duration-ms="56778">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T10:47:55 IST" name="Default test" finished-at="2023-01-05T10:48:52 IST" duration-ms="56778">
+      <class name="task_rahuls.task12">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:47:55 IST" name="beforeTest" finished-at="2023-01-05T10:48:10 IST" duration-ms="15200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="alerts()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:10 IST" name="alerts" finished-at="2023-01-05T10:48:18 IST" duration-ms="7433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+        <test-method signature="autosugg()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:18 IST" name="autosugg" finished-at="2023-01-05T10:48:20 IST" duration-ms="2645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autosugg -->
+        <test-method signature="checkbox()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:21 IST" name="checkbox" finished-at="2023-01-05T10:48:27 IST" duration-ms="6625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method signature="dropdown()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:27 IST" name="dropdown" finished-at="2023-01-05T10:48:28 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="hideshow()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:28 IST" name="hideshow" finished-at="2023-01-05T10:48:30 IST" duration-ms="2536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hideshow -->
+        <test-method signature="opentab()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:30 IST" name="opentab" finished-at="2023-01-05T10:48:30 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentab -->
+        <test-method signature="openwindow()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:31 IST" name="openwindow" finished-at="2023-01-05T10:48:42 IST" duration-ms="11113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwindow -->
+        <test-method signature="radiobutton()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:42 IST" name="radiobutton" finished-at="2023-01-05T10:48:49 IST" duration-ms="6935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiobutton -->
+        <test-method signature="scroll()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:49 IST" name="scroll" finished-at="2023-01-05T10:48:52 IST" duration-ms="3021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:task_rahuls.task12@c33b74f]" started-at="2023-01-05T10:48:52 IST" name="afterTest" finished-at="2023-01-05T10:48:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- task_rahuls.task12 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

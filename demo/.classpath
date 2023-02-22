@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="V:/selenium/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/automationUtilities-pro-1.0 (1).jar"/>
+	<classpathentry kind="lib" path="V:/selenium/automationUtilities-pro-1.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/httpclient5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/httpcore5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/jars-20221205T101703Z-001.zip"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-api-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-api-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-chrome-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-chrome-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-chromium-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-chromium-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v85-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v85-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v106-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v106-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v107-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v107-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v108-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-devtools-v108-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-edge-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-edge-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-firefox-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-firefox-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-http-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-http-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-ie-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-ie-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-java-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-java-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-json-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-json-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-manager-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-manager-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-remote-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-remote-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-safari-driver-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-safari-driver-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-support-4.7.0.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/selenium-support-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-log4j12-1.7.16-javadoc.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-log4j12-1.7.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-log4j12-1.7.30.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-log4j12-1.8.0-beta2.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="V:/selenium/webdrivermanager-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

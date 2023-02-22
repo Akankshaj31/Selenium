@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [sathish1234]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="paralleltest(failed)">
+    <parameter name="mybrowser" value="chrome"/>
+    <classes>
+      <class name="satish12345.paralleltest">
+        <methods>
+          <include name="orangehrm"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- satish12345.paralleltest -->
+    </classes>
+  </test> <!-- paralleltest(failed) -->
+</suite> <!-- Failed suite [sathish1234] -->
